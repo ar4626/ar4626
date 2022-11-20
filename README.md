@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structure**
 
-- 👨‍💻 Other information go to my website  **https://ar4626.github.io/ar4626/**
+- 👨‍💻 Other information go to my website  **https://ar4626.github.io**
 
 - 📫 How to reach me **ankitsingh17072001@gmail.com**
 
