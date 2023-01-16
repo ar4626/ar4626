@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structure**
 
-- 👨‍💻 Other information go to my website  **https://ar4626.github.io**
+- 👨‍💻 Other information go to my educational website  **https://ar4626.github.io**
 
 - 👨‍💻 Other information go to my project on women safety  **https://ar4626.github.io/Women-Safety/**
 
