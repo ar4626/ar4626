@@ -11,6 +11,8 @@
 
 - 👨‍💻 Other information go to my project on women safety  **https://ar4626.github.io/Women-Safety/**
 
+- 👨‍💻 Other information go to my project on Information Visualisation  **https://ar4626.github.io/18CSE301J_RA2011032010020/**
+
 - 📫 How to reach me **ankitsingh17072001@gmail.com**
 
 <!--- ⚡ Fun fact **I play games and love bird photography (https://www.instagram.com/photographer.bjorn/)**-->
