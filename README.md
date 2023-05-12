@@ -7,11 +7,15 @@
 
 - 🌱 I’m currently learning **Data Structure**
 
-- 👨‍💻 Other information go to my educational website  **https://ar4626.github.io**
+- 👨‍💻 Other information go to 
 
-- 👨‍💻 Other information go to my project on women safety  **https://ar4626.github.io/Women-Safety/**
+- My educational website  **https://ar4626.github.io**
 
-- 👨‍💻 Other information go to my project on Information Visualisation  **https://ar4626.github.io/18CSE301J_RA2011032010020/**
+- My project on women safety  **https://ar4626.github.io/Women-Safety/**
+
+- My project on Information Visualisation  **https://ar4626.github.io/18CSE301J_RA2011032010020/**
+
+- My final project on Information Visualisation  **https://ar4626.github.io/Mapping-the-Skies---Information-Visualisation/**
 
 - 📫 How to reach me **ankitsingh17072001@gmail.com**
 
