@@ -9,9 +9,9 @@
 
 - 🌱 TechStack **MERN**
 
-- - 🌱 TechStack **.Net**
+-  🌱 TechStack **.Net**
  
-  - - 🌱 TechStack **Angular 17** 
+- 🌱 TechStack **Angular 17** 
 
 - 👨‍💻 Other information go to 
 
