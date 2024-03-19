@@ -7,7 +7,11 @@
 
 - 🌱 I’m currently learning **Fullstack Development**
 
-- 🌱 TechStack **MERN** 
+- 🌱 TechStack **MERN**
+
+- - 🌱 TechStack **.Net**
+ 
+  - - 🌱 TechStack **Angular 17** 
 
 - 👨‍💻 Other information go to 
 
